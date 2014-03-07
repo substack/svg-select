@@ -1,0 +1,32 @@
+{
+  "name": "svg-select",
+  "version": "0.0.0",
+  "description": "select geometries from svg files by clicking",
+  "main": "index.js",
+  "dependencies": {
+    "inherits": "~2.0.1"
+  },
+  "devDependencies": {
+    "tape": "~2.3.2"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/svg-select.git"
+  },
+  "homepage": "https://github.com/substack/svg-select",
+  "keywords": [
+    "svg",
+    "browser",
+    "ui",
+    "vector"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}
